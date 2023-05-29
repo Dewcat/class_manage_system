@@ -8,7 +8,7 @@ public class Student {
     private String number;
     private String name;
     private int age;
-    private boolean sex;
+    private String sex;
     private String banji;
 
 }

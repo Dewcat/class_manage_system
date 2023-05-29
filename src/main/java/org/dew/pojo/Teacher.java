@@ -7,5 +7,5 @@ public class Teacher {
     private String number;
     private String name;
     private int age;
-    private boolean sex;
+    private String sex;
 }
